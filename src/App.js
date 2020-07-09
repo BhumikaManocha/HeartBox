@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+          <button type="button" class="btn btn-danger">Danger</button>
         </p>
         <a
           className="App-link"
